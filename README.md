@@ -8,3 +8,5 @@ http://at-speed.co.uk was created as my first attempt at a commercial website, b
 Unfortunately, I didn't have the time or the money to make a success of it and other work took priority and by 1998 I'd closed the door. However, I found an old PC with a copy of the site on it and resurrected it. Let's hope it can live pretty much forever.
 
 As for licenses. I don't currently have the time or energy to check on the situation with respect to the images so I'm going to have to be limited there. Sorry.
+
+As for technicalities - some things don't work without FrontPage extensions... and that's never going to happen today! Security nightmare, right? Would be fun to set up in a museum setting, airgapped, but nah, not on the internet. The site now is stored on Github and is hosted by AWS Amplify using a CI workflow. Just for giggles. I suspect it's one of the very few 1996 websites that has CI.
