@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=iso-8859-1">
+<meta name="GENERATOR" content="Microsoft FrontPage 2.0">
+<title>championship standings table</title>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<table border="0" width="120">
+    <tr>
+        <td bgcolor="#C0C0C0"><font size="1" face="Arial"><strong>P</strong></font></td>
+        <td bgcolor="#C0C0C0"><font size="1" face="Arial"><strong>Name</strong></font></td>
+        <td bgcolor="#C0C0C0"><font size="1" face="Arial"><strong>Points</strong></font></td>
+    </tr>
+    <tr>
+        <td bgcolor="#FFFF00"><font size="1" face="Arial">1</font></td>
+        <td bgcolor="#FFFF00"><font size="1" face="Arial">M.Schumacher</font></td>
+        <td bgcolor="#FFFF00"><font size="1" face="Arial">56</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">2</font></td>
+        <td><font size="1" face="Arial">J.Villeneuve</font></td>
+        <td><font size="1" face="Arial">53</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">3</font></td>
+        <td><font size="1" face="Arial">J.Alesi</font></td>
+        <td><font size="1" face="Arial">22</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">4</font></td>
+        <td><font size="1" face="Arial">G.Berger</font></td>
+        <td><font size="1" face="Arial">20</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">5</font></td>
+        <td><font size="1" face="Arial">HH.Frentzen</font></td>
+        <td><font size="1" face="Arial">19</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">6</font></td>
+        <td><font size="1" face="Arial">E.Irvine</font></td>
+        <td><font size="1" face="Arial">18</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">7</font></td>
+        <td><font size="1" face="Arial">O.Panis</font></td>
+        <td><font size="1" face="Arial">15</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">8</font></td>
+        <td><font size="1" face="Arial">D.Coulthard</font></td>
+        <td><font size="1" face="Arial">14</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">8</font></td>
+        <td><font size="1" face="Arial">M.Hakkinen</font></td>
+        <td><font size="1" face="Arial">14</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">10</font></td>
+        <td><font size="1" face="Arial">J.Herbert</font></td>
+        <td><font size="1" face="Arial">11</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">10</font></td>
+        <td><font size="1" face="Arial">R.Schumacher</font></td>
+        <td><font size="1" face="Arial">11</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">12</font></td>
+        <td><font size="1" face="Arial">G.Fisichella</font></td>
+        <td><font size="1" face="Arial">8</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">13</font></td>
+        <td><font size="1" face="Arial"><em>D.Hill</em></font></td>
+        <td><font size="1" face="Arial"><em>7</em></font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">14</font></td>
+        <td><font size="1" face="Arial">R.Barichello</font></td>
+        <td><font size="1" face="Arial">6</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">15</font></td>
+        <td><font size="1" face="Arial">A.Wurz</font></td>
+        <td><font size="1" face="Arial">3</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">15</font></td>
+        <td><font size="1" face="Arial">J.Trulli</font></td>
+        <td><font size="1" face="Arial">3</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">17</font></td>
+        <td><font size="1" face="Arial">M.Salo</font></td>
+        <td><font size="1" face="Arial">2</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">17</font></td>
+        <td><font size="1" face="Arial">S.Nakano</font></td>
+        <td><font size="1" face="Arial">2</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">19</font></td>
+        <td><font size="1" face="Arial">N.Larini</font></td>
+        <td><font size="1" face="Arial">1</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">16</font></td>
+        <td><font size="1" face="Arial">P.Diniz</font></td>
+        <td><font size="1" face="Arial">0</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">16</font></td>
+        <td><font size="1" face="Arial">J.Verstappen</font></td>
+        <td><font size="1" face="Arial">0</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">16</font></td>
+        <td><font size="1" face="Arial">U.Katayama</font></td>
+        <td><font size="1" face="Arial">0</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">16</font></td>
+        <td><font size="1" face="Arial">J.Magnussen</font></td>
+        <td><font size="1" face="Arial">0</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">16</font></td>
+        <td><font size="1" face="Arial">R.Rosset</font></td>
+        <td><font size="1" face="Arial">0</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">16</font></td>
+        <td><font size="1" face="Arial">V.Sospiri</font></td>
+        <td><font size="1" face="Arial">0</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">16</font></td>
+        <td><font size="1" face="Arial">N.Fontana</font></td>
+        <td><font size="1" face="Arial">0</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">16</font></td>
+        <td><font size="1" face="Arial">T.Marques</font></td>
+        <td><font size="1" face="Arial">0</font></td>
+    </tr>
+    <tr>
+        <td><font size="1" face="Arial">28</font></td>
+        <td>&nbsp;</td>
+        <td><font size="1" face="Arial">0</font></td>
+    </tr>
+</table>
+</body>
+</html>
